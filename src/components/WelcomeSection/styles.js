@@ -1,5 +1,5 @@
 import { css, keyframes } from '@emotion/core';
-import Background from '@assets/images/bg-welcome.jpg';
+import Background from '@assets/images/bg-welcome-1.jpg';
 
 export const styHero = css`
   width: 100%;
@@ -125,7 +125,7 @@ export const styBackground = css`
   background-image: url(${Background});
   background-position: center;
   width: 100%;
-  
+  height: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
