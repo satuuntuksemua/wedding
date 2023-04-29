@@ -1,13 +1,13 @@
 import React, { Fragment } from 'react';
 import { bool } from 'prop-types';
 
-import Bride from '@assets/images/p-Latif-2.jpg';
+import Bride from '@assets/images/p-Latif.jpg';
 import Groom from '@assets/images/p-Wiwil.jpg';
 
 import { styWrapper } from './styles';
 
 function HelloSection({ isInvitation }) {
-  const finalSubtitle = isInvitation ? '03 Oktober 2020, HARRIS Hotel Sentraland, Semarang' : 'Sabtu, 03 Oktober 2020';
+  const finalSubtitle = isInvitation ? '09 Juli 2023, Mahoni Leisure, Sukabumi' : 'Sabtu, 09 Juli 2023';
 
   return (
     <Fragment>
@@ -30,9 +30,9 @@ function HelloSection({ isInvitation }) {
                 <img src={Bride} alt="groom" className="img-responsive" loading="lazy" />
               </div>
               <div className="desc-groom">
-                <h3 className="main-font">Latif Saraswati, S.I.Kom.</h3>
+                <h3 className="main-font">Abdul Latif, M.Kom.</h3>
                 <p className="parent-name parent-name__top">
-                  Putri Bapak Totok Somo Dipoyono <br />& Ibu Setyo Listiani
+                  Putra Bapak Jojo Zainul Arif <br />& Alm. Ibu Dede Uyum Nuryani
                 </p>
               </div>
             </div>
@@ -47,9 +47,9 @@ function HelloSection({ isInvitation }) {
                 <img src={Groom} alt="groom" className="img-responsive" loading="lazy" />
               </div>
               <div className="desc-bride">
-                <h3 className="main-font">Wiwil Kusuma, S.Kom.</h3>
+                <h3 className="main-font">Siti Khotimatul Wildah, M.Kom.</h3>
                 <p className="parent-name">
-                  Putra Bapak Bunari <br />& Ibu Suratun
+                  Putri Bapak <br />& Ibu 
                 </p>
               </div>
             </div>

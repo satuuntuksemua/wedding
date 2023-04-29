@@ -90,7 +90,7 @@ export const wishlist = [
   {
     name: 'Fajar Falahiat',
     infoName: 'Rekan Kerja Wiwil, Tokopedia',
-    description: `Selamat menikah Wiwil Kusuma! Semoga pernikahannya berkah, sakinah mawaddah warohmah. Good luck bro and thanks for being such a good friend and mentor!`,
+    description: `Selamat menikah Wiwil! Semoga pernikahannya berkah, sakinah mawaddah warohmah. Good luck bro and thanks for being such a good friend and mentor!`,
     image: fajar,
   },
   {
