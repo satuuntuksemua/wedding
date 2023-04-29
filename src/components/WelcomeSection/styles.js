@@ -125,28 +125,28 @@ export const styBackground = css`
   background-image: url(${Background});
   background-position: center;
   width: 100%;
-  height: 100%;
+  
   display: flex;
   justify-content: center;
   align-items: center;
 
   @media screen and (max-width: 400px) {
     .title {
-      font-size: 40px;
+      font-size: 30px;
     }
 
     .sub-title {
-      font-size: 28px;
+      font-size: 18px;
     }
   }
 
   @media screen and (max-width: 500px) {
     .title {
-      font-size: 54px;
+      font-size: 44px;
     }
 
     .sub-title {
-      font-size: 28px;
+      font-size: 18px;
     }
   }
 `;
