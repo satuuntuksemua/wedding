@@ -132,21 +132,21 @@ export const styBackground = css`
 
   @media screen and (max-width: 400px) {
     .title {
-      font-size: 30px;
+      font-size: 40px;
     }
 
     .sub-title {
-      font-size: 18px;
+      font-size: 28px;
     }
   }
 
   @media screen and (max-width: 500px) {
     .title {
-      font-size: 44px;
+      font-size: 54px;
     }
 
     .sub-title {
-      font-size: 18px;
+      font-size: 28px;
     }
   }
 `;
