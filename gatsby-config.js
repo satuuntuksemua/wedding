@@ -6,11 +6,11 @@
  
 module.exports = {
   /* Your site config here */
-  pathPrefix: `/`,
+  pathPrefix: '/',
   plugins: [
-    `gatsby-plugin-react-helmet`,
+    'gatsby-plugin-react-helmet',
     'gatsby-plugin-eslint',
-    `gatsby-plugin-emotion`,
+    'gatsby-plugin-emotion',
     'gatsby-optional-chaining',
     {
       resolve: 'gatsby-alias-imports',

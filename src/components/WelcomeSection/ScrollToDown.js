@@ -6,6 +6,7 @@ import { bool, func } from 'prop-types';
 function ClickToSeeDetail({ loading, onClick }) {
   return (
     <div css={styScrollWrapper} onClick={onClick}>
+      <br />
       <section id="scroll" class="scroll__icon">
         <div className="button">
           <span></span>

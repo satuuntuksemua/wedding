@@ -34,7 +34,7 @@ function ETicket({ location }) {
       }
 
       alert(`Maaf, Kode data ${guestCode} tidak ditemukan. Mohon di cek lagi..`);
-      window.location.assign('https://latifwiwil.netlify.app');
+      window.location.assign('https://latiefdole.my.id');
     },
     [data, nameEticket, value],
   );
