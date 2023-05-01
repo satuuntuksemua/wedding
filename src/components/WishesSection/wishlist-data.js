@@ -200,7 +200,7 @@ export const wishlist = [
   {
     name: 'Jennyka Setiawan',
     infoName: 'Sahabat Kuliah Wiwil',
-    description: `Wiwil dan LatifWhen you read this message you probably already "Sah" Newly Married couple. or if you read this before that then read this again after. hehehehehee... Wiwil and Latifyou already are match couple 2020, so keep up the good work until only death takes youu guys apart. I definitely know nothing about marriage but people says its the bittersweet of life. But I know one thing you guys can be each other the best of friends, parents, leader, guidance, partner not in crime but in the good thing I know ( crime only can be done by Wiwil while in university ) ehehhehehe. Hope you guys prosper and also can be the source to share good value not only for your family but also for the lots and lots of people. May God Bless You both and your "soon to be" family.  Regard - Jeka0ne`,
+    description: `Wiwil dan Latif When you read this message you probably already "Sah" Newly Married couple. or if you read this before that then read this again after. hehehehehee... Wiwil and Latifyou already are match couple 2020, so keep up the good work until only death takes youu guys apart. I definitely know nothing about marriage but people says its the bittersweet of life. But I know one thing you guys can be each other the best of friends, parents, leader, guidance, partner not in crime but in the good thing I know ( crime only can be done by Wiwil while in university ) ehehhehehe. Hope you guys prosper and also can be the source to share good value not only for your family but also for the lots and lots of people. May God Bless You both and your "soon to be" family.  Regard - Jeka0ne`,
     image: jenny,
   },
 ];

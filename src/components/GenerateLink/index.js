@@ -145,7 +145,7 @@ function GenerateLink() {
   return (
     <div>
       <h2 className="title">Generator of Link Invitation</h2>
-      <h3 className="title__sub">Wiwil & LatifWedding</h3>
+      <h3 className="title__sub">Wiwil & Latif Wedding</h3>
 
       {loading && <h4 style={{ textAlign: 'center' }}>Memuat data..</h4>}
 
