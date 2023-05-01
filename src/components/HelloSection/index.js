@@ -27,7 +27,7 @@ function HelloSection({ isInvitation }) {
           <div className="couple-wrap">
             <div className="couple-half">
               <div className="groom">
-                <img src={Bride} alt="groom" className="img-responsive" loading="lazy" />
+                <StaticImage src={Bride} alt="groom" className="img-responsive" loading="lazy" />
               </div>
               <div className="desc-groom">
                 <h3 className="main-font">Abdul Latif, M.Kom.</h3>
@@ -44,7 +44,7 @@ function HelloSection({ isInvitation }) {
             </div>
             <div className="couple-half">
               <div className="bride">
-                <img src={Groom} alt="groom" className="img-responsive" loading="lazy" />
+                <StaticImage src={Groom} alt="groom" className="img-responsive" loading="lazy" />
               </div>
               <div className="desc-bride">
                 <h3 className="main-font">Siti Khotimatul Wildah, M.Kom.</h3>
