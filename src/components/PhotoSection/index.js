@@ -7,7 +7,7 @@ function PhotoSection() {
   const renderYoutubeVideo = () => {
     return (
       <iframe
-        title="Pre-Wedding Latif & Wiwil"
+        title="Pre-Wedding Wiwil & Wiwil"
         width="100%"
         height="360px"
         src="https://www.youtube.com/embed/gm0nwp36AFM"

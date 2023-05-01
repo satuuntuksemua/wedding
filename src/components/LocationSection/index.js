@@ -12,7 +12,7 @@ function LocationSection() {
               <h2 className="main-font">Lokasi Acara</h2>
               <p className="sub-title">
                 <a
-                  href={GOOGLE_MAPS_LINK}
+                  href={"https://goo.gl/maps/B4NRkn7FTc2oH1KZ7"}
                   title="Click untuk melihat peta di Google Maps"
                   target="_blank"
                   rel="noreferrer"
@@ -37,9 +37,10 @@ function LocationSection() {
                 allowFullScreen
                 aria-hidden="false"
                 tabIndex="0"
-                title="Google Maps - Latif & Wiwil Wedding Party"
+                title="Google Maps - Wiwil & LatifWedding Party"
               ></iframe>
             </div>
+            <div class="col-md-2"><a href="https://goo.gl/maps/B4NRkn7FTc2oH1KZ7"><button class="btn btn-default btn-block">Lihat Lokasi</button></a></div>
           </div>
         </div>
       </div>
