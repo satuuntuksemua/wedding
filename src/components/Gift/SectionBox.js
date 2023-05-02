@@ -1,7 +1,7 @@
 import React from 'react';
 import { styBoxWrapper } from './styles';
 
-function SectionBox({ icon, text }) {
+function SectionBox({ icon, text, kopi }) {
   return (
     <div className="col-md-4" css={styBoxWrapper}>
       <div className="img-section">
@@ -9,6 +9,9 @@ function SectionBox({ icon, text }) {
       </div>
       <div className="text__section">
         <span className="text__info">{text}</span>
+        <button className="btn btn-outline-secondary btn-copy" data-clipboard-text={kopi}>
+              <i className="fa fa-fw fa-copy"></i> Copy
+        </button>
       </div>
     </div>
   );
