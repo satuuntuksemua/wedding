@@ -32,7 +32,6 @@ function LocationSection() {
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.6437696406874!2d106.981977314773!3d-6.933110994990776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6848bfcc1c601b%3A0x5eb1219edae929f1!2sMahoni%20Leisure!5e0!3m2!1sid!2sid!4v1682797343434!5m2!1sid!2sid"
                 width="100%"
                 height="450"
-                frameBorder="0"
                 style={{ border: '0' }}
                 allowFullScreen
                 aria-hidden="false"
