@@ -40,7 +40,7 @@ function LocationSection() {
                 title="Google Maps - Wiwil & Latif Wedding Party"
               ></iframe>
             </div>
-            <div class="col-md-3"><a href="https://goo.gl/maps/B4NRkn7FTc2oH1KZ7"><button class="btn btn-primary btn-block">Lihat Lokasi</button></a></div>
+            <div align="center" class="col-md-3"><a href="https://goo.gl/maps/B4NRkn7FTc2oH1KZ7"><button class="btn btn-primary btn-block">Lihat Lokasi</button></a></div>
           </div>
         </div>
       </div>
