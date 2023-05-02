@@ -37,13 +37,13 @@ function WeddingSection({ isInvitation }) {
                   title="Akad Nikah"
                   time="Akan dilaksanakan pagi hari "
                   date="Sabtu, 09 Juli 2023"
-                  description="Mahoni Leisure Sukabumi <br/>, Jl Gandasoli - Cireunghas, Selawangi, Kec. Sukaraja, Kabupaten Sukabumi, Provinsi Jawa Barat, Kode Pos 43194"
+                  description="Mahoni Leisure Sukabumi <br/>Jl Gandasoli - Cireunghas, Selawangi, Kec. Sukaraja, Kabupaten Sukabumi, Provinsi Jawa Barat, Kode Pos 43194"
                 />
                 <WeddingInfoBox
                   title="Syukuran Pernikahan"
                   time="Sesuai jadwal undangan di e-ticket "
                   date="Sabtu, 09 Juli 2023"
-                  description="Mahoni Leisure Sukabumi <br/>, Jl Gandasoli - Cireunghas, Selawangi, Kec. Sukaraja, Kabupaten Sukabumi, Provinsi Jawa Barat, Kode Pos 43194"
+                  description="Mahoni Leisure Sukabumi <br/>Jl Gandasoli - Cireunghas, Selawangi, Kec. Sukaraja, Kabupaten Sukabumi, Provinsi Jawa Barat, Kode Pos 43194"
                 />
               </div>
             )}
