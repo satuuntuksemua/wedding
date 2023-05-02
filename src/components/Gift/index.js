@@ -52,7 +52,7 @@ function GiftSection() {
             <h2>
               Jika teman-teman ingin mengirimkan kado ke Alamat di bawah ini:
             </h2>
-          <p>Kp. Lio RT/RW 002/001 (Belakang Perum Lio) No. 113, Kel. Cireunghas, Kec. Cireunghas, Kab. Sukabumi, Jawa Barat, 43193 &nbsp;&nbsp; 
+          <p>Kp. Lio RT/RW 002/001 (Belakang Perum Lio) No. 113, Kel. Cireunghas, Kec. Cireunghas, Kab. Sukabumi, Jawa Barat, 43193 
           <CopyButton text="Kp. Lio RT/RW 002/001 (Belakang Perum Lio) No. 113, Kel. Cireunghas, Kec. Cireunghas, Kab. Sukabumi, Jawa Barat, 43193" />  </p>
           </div>
         </div>
