@@ -1,4 +1,5 @@
 import React from 'react';
+import { styWrapper } from '../HelloSection/styles';
 
 import IconBCA from './assets/bca.png';
 import IconPermata from './assets/permata.png';
@@ -7,7 +8,7 @@ import SectionBox from './SectionBox';
 
 function GiftSection() {
   return (
-    <div id="fh5co-couple">
+    <div id="fh5co-couple" className="fh5co-section-gray" css={styWrapper}>
       <div className="container">
         <div className="row">
           <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">
