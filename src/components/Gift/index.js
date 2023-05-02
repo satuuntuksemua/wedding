@@ -40,11 +40,11 @@ function GiftSection() {
         <div className="row">
           <div className="col-md-12">
             <SectionBox icon={IconBCA} text="Bank Central Asia (BCA) a.n Siti Khotimatul Wildah : " />
-            <p>0380043882</p><CopyButton text="0380043882" />
+            <p>0380043882 <CopyButton text="0380043882" /> </p>
             <SectionBox icon={IconPermata} text="Bank Permata a.n Siti Khotimatul Wildah : " /> 
-            <p>1227523820</p><CopyButton text="1227523820" />
+            <p>1227523820 <CopyButton text="1227523820" /> </p>
             <SectionBox icon={IconEWallet} text="E-Wallet (Dana, OVO, Gopay, ShopeePay, dan LinkAja) : " /> <code id="ewallet-account">089650641822</code>
-            <p>089650641822</p><CopyButton text="089650641822" />
+            <p>089650641822 <CopyButton text="089650641822" /> </p> 
           </div>
         </div>
         <div className="row">
@@ -56,8 +56,8 @@ function GiftSection() {
         </div>
         <div className="row">
           <div className="col-md-12">
-          <br /><code id="address">Kp. Lio RT/RW 002/001 (Belakang Perum Lio) No. 113, Kel. Cireunghas, Kec. Cireunghas, Kab. Sukabumi, Jawa Barat, 43193</code>
-          <button class="btn btn-outline-secondary" onclick="copyToClipboard('address')">Copy</button>
+          <br /><p>Kp. Lio RT/RW 002/001 (Belakang Perum Lio) No. 113, Kel. Cireunghas, Kec. Cireunghas, Kab. Sukabumi, Jawa Barat, 43193 </p>
+          <CopyButton text="Kp. Lio RT/RW 002/001 (Belakang Perum Lio) No. 113, Kel. Cireunghas, Kec. Cireunghas, Kab. Sukabumi, Jawa Barat, 43193" />
           </div>
         </div>
       </div>
