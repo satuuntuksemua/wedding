@@ -20,8 +20,15 @@ function GiftSection() {
         {/* BOX INFO */}
         <div className="row">
           <div className="col-md-12">
-            <SectionBox icon={IconBCA} text="Bank Central Asia (BCA) a.n Siti Khotimatul Wildah : " /> <code id="bca-account">0380043882</code>
-            <button class="btn btn-outline-secondary" onclick="copyToClipboard('bca-account')">Copy</button>
+            <SectionBox icon={IconBCA} text="Bank Central Asia (BCA) a.n Siti Khotimatul Wildah : " />
+            <code id="bca-account">0380043882</code>
+              <button class="btn btn-outline-secondary" onclick="navigator.clipboard.writeText(document.getElementById('bca-account').innerText)
+              .then(() => {
+                console.log('Text copied to clipboard');
+              })
+              .catch((error) => {
+                console.error('Could not copy text: ', error);
+              });">Copy</button>
             <SectionBox icon={IconPermata} text="Bank Permata a.n Siti Khotimatul Wildah : " /> <code id="permata-account">1227523820</code>
             <button class="btn btn-outline-secondary" onclick="copyToClipboard('permata-account')">Copy</button>
             <SectionBox icon={IconEWallet} text="E-Wallet (Dana, OVO, Gopay, ShopeePay, dan LinkAja) : " /> <code id="ewallet-account">089650641822</code>
@@ -30,7 +37,7 @@ function GiftSection() {
         </div>
         <div className="row">
           <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">
-            <p className="info" style={{ marginBottom: '-16px' }}>
+            <p className="info">
               Jika teman-teman ingin mengirimkan kado ke Alamat di bawah ini:
             </p>
           </div>
@@ -44,18 +51,6 @@ function GiftSection() {
       </div>
     </div>
   );
-  function copyToClipboard(id) {
-    const element = document.getElementById(id);
-    const text = element.innerText;
-    navigator.clipboard.writeText(text)
-      .then(() => {
-        console.log('Text copied to clipboard');
-      })
-      .catch((error) => {
-        console.error('Could not copy text: ', error);
-      });
-  }
-  
 }
 
 export default GiftSection;
