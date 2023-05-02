@@ -47,6 +47,9 @@ function GiftSection() {
             <span style={{fontWeight: 500, fontSize: '1.2em'}}>Abdul Latif            : <b>089650641822</b> <CopyButton text="089650641822" /> </span> 
           </div>
         </div>
+        &nbsp;
+        &nbsp;
+        &nbsp;
         <div className="row">
           <div className="col-md-8 col-md-offset-2 fh5co-heading" style={{border: '1px dashed pink'}}>
             <h4>
