@@ -2,8 +2,9 @@ import { css } from '@emotion/core';
 
 export const styBoxWrapper = css`
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: left;
+  align-items: left;
+  border: : 1px dashed;
   margin: 16px 0;
 
   .img-section {
