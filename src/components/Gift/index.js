@@ -38,7 +38,7 @@ function GiftSection() {
         </div>
         {/* BOX INFO */}
         <div className="row">
-          <div className="col-md-12" style={{}}>
+          <div className="col-md-12" style={{border: '1px dashed pink'}}>
             <SectionBox icon={IconBCA} text="Bank Central Asia (BCA) : " />
             <span style={{fontWeight: 500, fontSize: '1.2em'}}>Siti Khotimatul Wildah: <b>0380043882 </b> <CopyButton text="0380043882" /></span>
             <SectionBox icon={IconPermata} text="Bank Permata : " /> 
@@ -48,10 +48,10 @@ function GiftSection() {
           </div>
         </div>
         <div className="row">
-          <div className="col-md-8 col-md-offset-2 fh5co-heading" style={{}}>
-            <h2>
+          <div className="col-md-8 col-md-offset-2 fh5co-heading" style={{border: '1px dashed pink'}}>
+            <h4>
               Jika teman-teman ingin mengirimkan kado ke Alamat di bawah ini:
-            </h2>
+            </h4>
           <p>Kp. Lio RT/RW 002/001 (Belakang Perum Lio) No. 113, Kel. Cireunghas, Kec. Cireunghas, Kab. Sukabumi, Jawa Barat, 43193 
           <CopyButton text="Kp. Lio RT/RW 002/001 (Belakang Perum Lio) No. 113, Kel. Cireunghas, Kec. Cireunghas, Kab. Sukabumi, Jawa Barat, 43193" />  </p>
           </div>
