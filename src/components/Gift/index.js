@@ -5,6 +5,25 @@ import IconPermata from './assets/permata.png';
 import IconEWallet from './assets/ewallet.png';
 import SectionBox from './SectionBox';
 
+
+const CopyButton = ({text}) => {
+  const handleClick = () => {
+    navigator.clipboard.writeText(text)
+      .then(() => {
+        console.log('Text copied to clipboard');
+      })
+      .catch((error) => {
+        console.error('Could not copy text: ', error);
+      });
+  }
+
+  return (
+    <button className="copy-button" onClick={handleClick}>
+      Copy
+    </button>
+  )
+}
+
 function GiftSection() {
   return (
     <div id="fh5co-couple">
@@ -21,18 +40,11 @@ function GiftSection() {
         <div className="row">
           <div className="col-md-12">
             <SectionBox icon={IconBCA} text="Bank Central Asia (BCA) a.n Siti Khotimatul Wildah : " />
-            <code id="bca-account">0380043882</code>
-              <button class="btn btn-outline-secondary" onclick="navigator.clipboard.writeText(document.getElementById('bca-account').innerText)
-              .then(() => {
-                console.log('Text copied to clipboard');
-              })
-              .catch((error) => {
-                console.error('Could not copy text: ', error);
-              });">Copy</button>
-            <SectionBox icon={IconPermata} text="Bank Permata a.n Siti Khotimatul Wildah : " /> <code id="permata-account">1227523820</code>
-            <button class="btn btn-outline-secondary" onclick="copyToClipboard('permata-account')">Copy</button>
+            <p>0380043882</p><CopyButton text="0380043882" />
+            <SectionBox icon={IconPermata} text="Bank Permata a.n Siti Khotimatul Wildah : " /> 
+            <p>1227523820</p><CopyButton text="1227523820" />
             <SectionBox icon={IconEWallet} text="E-Wallet (Dana, OVO, Gopay, ShopeePay, dan LinkAja) : " /> <code id="ewallet-account">089650641822</code>
-            <button class="btn btn-outline-secondary" onclick="copyToClipboard('ewallet-account')">Copy</button>
+            <p>089650641822</p><CopyButton text="089650641822" />
           </div>
         </div>
         <div className="row">
