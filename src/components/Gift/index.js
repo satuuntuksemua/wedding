@@ -39,12 +39,12 @@ function GiftSection() {
         {/* BOX INFO */}
         <div className="row">
           <div className="col-md-12">
-            <SectionBox icon={IconBCA} text="Bank Central Asia (BCA) a.n Siti Khotimatul Wildah : " />
-            <p>0380043882 <CopyButton text="0380043882" /> </p>
-            <SectionBox icon={IconPermata} text="Bank Permata a.n Siti Khotimatul Wildah : " /> 
-            <p>1227523820 <CopyButton text="1227523820" /> </p>
+            <SectionBox icon={IconBCA} text="Bank Central Asia (BCA) : " />
+            <span>Siti Khotimatul Wildah: <b>0380043882 </b> <CopyButton text="0380043882" /></span>
+            <SectionBox icon={IconPermata} text="Bank Permata : " /> 
+            <span>Siti Khotimatul Wildah : <b>1227523820 </b> <CopyButton text="1227523820" /></span>
             <SectionBox icon={IconEWallet} text="E-Wallet (Dana, OVO, Gopay, ShopeePay, dan LinkAja) : " /> <code id="ewallet-account">089650641822</code>
-            <p>089650641822 <CopyButton text="089650641822" /> </p> 
+            <span><b>089650641822</b> <CopyButton text="089650641822" /> </span> 
           </div>
         </div>
         <div className="row">
