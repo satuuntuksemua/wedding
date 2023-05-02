@@ -18,7 +18,7 @@ const CopyButton = ({text}) => {
   }
 
   return (
-    <button className="copy-button" onClick={handleClick}>
+    <button className="btn btn-outline-secondary btn-copy" onClick={handleClick}>
       Copy
     </button>
   )
@@ -48,16 +48,12 @@ function GiftSection() {
           </div>
         </div>
         <div className="row">
-          <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">
-            <p className="info">
+          <div className="col-md-8 col-md-offset-2 fh5co-heading">
+            <h4>
               Jika teman-teman ingin mengirimkan kado ke Alamat di bawah ini:
-            </p>
-          </div>
-        </div>
-        <div className="row">
-          <div className="col-md-12">
-          <br /><p>Kp. Lio RT/RW 002/001 (Belakang Perum Lio) No. 113, Kel. Cireunghas, Kec. Cireunghas, Kab. Sukabumi, Jawa Barat, 43193 </p>
-          <CopyButton text="Kp. Lio RT/RW 002/001 (Belakang Perum Lio) No. 113, Kel. Cireunghas, Kec. Cireunghas, Kab. Sukabumi, Jawa Barat, 43193" />
+            </h4>
+          <p>Kp. Lio RT/RW 002/001 (Belakang Perum Lio) No. 113, Kel. Cireunghas, Kec. Cireunghas, Kab. Sukabumi, Jawa Barat, 43193 
+          <CopyButton text="Kp. Lio RT/RW 002/001 (Belakang Perum Lio) No. 113, Kel. Cireunghas, Kec. Cireunghas, Kab. Sukabumi, Jawa Barat, 43193" />  </p>
           </div>
         </div>
       </div>
