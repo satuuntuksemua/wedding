@@ -14,7 +14,7 @@ import PhotoSection from '@components/PhotoSection/Loadable';
 import WishesSection from '@components/WishesSection';
 import ConfirmationSection from '@components/ConfirmationSection';
 import FooterSection from '@components/FooterSection';
-import GiftSection from '@components/Covid19';
+import GiftSection from '@components/Gift';
 import FloatingMusic from '@components/FloatingMusic/Loadable';
 
 function Home({ location }) {
