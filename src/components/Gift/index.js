@@ -37,17 +37,17 @@ function GiftSection() {
           </div>
         </div>
         {/* BOX INFO */}
-        <div className="row">
+        <div className="row border">
           <div className="col-md-12">
             <SectionBox icon={IconBCA} text="Bank Central Asia (BCA) : " />
             <span>Siti Khotimatul Wildah: <b>0380043882 </b> <CopyButton text="0380043882" /></span>
             <SectionBox icon={IconPermata} text="Bank Permata : " /> 
             <span>Siti Khotimatul Wildah : <b>1227523820 </b> <CopyButton text="1227523820" /></span>
-            <SectionBox icon={IconEWallet} text="E-Wallet (Dana, OVO, Gopay, ShopeePay, dan LinkAja) : " /> <code id="ewallet-account">089650641822</code>
+            <SectionBox icon={IconEWallet} text="E-Wallet (Dana, OVO, Gopay, ShopeePay, dan LinkAja) : " />
             <span><b>089650641822</b> <CopyButton text="089650641822" /> </span> 
           </div>
         </div>
-        <div className="row">
+        <div className="row border">
           <div className="col-md-8 col-md-offset-2 fh5co-heading">
             <h4>
               Jika teman-teman ingin mengirimkan kado ke Alamat di bawah ini:
