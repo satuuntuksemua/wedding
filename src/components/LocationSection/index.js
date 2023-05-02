@@ -40,7 +40,7 @@ function LocationSection() {
               ></iframe>
             </div>
          <div className="row">
-         <div className="col-md-3 col-md-offset-1"><a href="https://goo.gl/maps/B4NRkn7FTc2oH1KZ7"><button class="btn btn-primary btn-block">Lihat Lokasi</button></a></div>
+         <div className="col-md-3 col-md-offset-2"><a href="https://goo.gl/maps/B4NRkn7FTc2oH1KZ7"><button class="btn btn-primary btn-block">Lihat Lokasi</button></a></div>
          </div>
          </div>
         </div>
