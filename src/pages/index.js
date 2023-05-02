@@ -14,7 +14,7 @@ import PhotoSection from '@components/PhotoSection/Loadable';
 import WishesSection from '@components/WishesSection';
 import ConfirmationSection from '@components/ConfirmationSection';
 import FooterSection from '@components/FooterSection';
-import CovidSection from '@components/Covid19';
+import GiftSection from '@components/Covid19';
 import FloatingMusic from '@components/FloatingMusic/Loadable';
 
 function Home({ location }) {
@@ -38,12 +38,12 @@ function Home({ location }) {
       <Fragment>
         <HelloSection isInvitation={isInvitation} />
         <WeddingSection isInvitation={isInvitation} />
-        {isInvitation && <CovidSection />}
         {isInvitation && <LocationSection />}
         <StorySection />
         <PhotoSection />
         <WishesSection />
         <ConfirmationSection guestName={firstName} isInvitation={isInvitation} codeLink={finalTicketLink} />
+        {isInvitation && <GiftSection />}
         <FooterSection isInvitation={isInvitation} />
       </Fragment>
     );
