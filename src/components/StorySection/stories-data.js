@@ -21,21 +21,21 @@ export const stories = [
     image: img1,
   },
   {
-    title: 'Mulai dekat dan jalan pertama',
+    title: 'Mulai Dekat dan Jalan Pertama',
     date: '2 Oktober 2021',
     description:
       'Awal mula keduanya akrab, saat itu wiwil dengan statusnya yang benar² sendiri begitu pun latif hihi. Katanya wiwil sudah taubat dan tidak ingin menggantung perasaan para lelaki, perkataan rifqi cukup di dengarkan rupanya (rifqi teman sekelas juga). Wiwil mengeluh dan iri dengan kaum pria karena bisa pergi kemanapun tanpa khawatir, dan disana latif berinisiatif untuk menawarkan bagaimana kalau kita pergi ketempat yang belum pernah dituju wiwil sebelumnya. Wiwil mengiyakan dan keduanya pun pergi ke Hutan Mangroove Jakarta Utara. ',
     image: img2,
   },
   {
-    title: 'Wisuda bareng ',
+    title: 'Wisuda Bareng ',
     date: '20 November 2021 ',
     description:
       'Lulus dan wisuda bareng di 2021, lulus setelah kuliah dijaman pandemi. Wiwil pernah bilang kalau ia merasa sedikit tersentuh dengan perlakuan latif kala itu di hari H wisuda. Wiwil yang kala itu di wisuda akan tetapi ia yang pada periode itu menjadi panitia wisuda tetap ingin membantu dahulu tim registrasi untuk checkin wisudawan, alhasil ia menjadi wisudawan yang hampir terakhir masuk ke aula prosesi dan kalian tahu, latif menunggu di pojok tempat registrasi sehingga saat itu kursi wisudawan kedua nya menjadi berdampingan. Oh ya dan mereka pun melakukan poto bersama (berdua) setelah selesai acara wisuda. Sebagai catatan kedua nya dekat akan tetapi sepertinya yang lain tidak terlalu menyadari itu. Mulai dari sana keduanya semakin akrab, sering bertukar pesan, vicall maupun pergi keluar.',
     image: img3,
   },
   {
-    title: 'Tanda serius',
+    title: 'Tanda Serius',
     date: '17 September 2022',
     description:
       'Seiring berjalannya waktu keduanya menjadi semakin akrab dan di awal April ketika ramadhan, tepatnya di tanggal 10 April 2022 Latif mendeklarasikan dan menegaskan mengenai hubungan keduanya. Hubungan keduanya semakin serius, dan Wiwil pun makin akrab dengan keluarga Latif, ia akrab dengan ayahnya latif dan juga bibi²nya hal tersebut sangat menyenangkan untuk Wiwil. Terlebih ia seperti mendapatkan kembali sosok ayah. Singkat cerita di bulan September yaitu kelahiran Wiwil, Latif datang ke Sukabumi ingin berjumpa dan mengobrol dengan keluarga (Kaka Wiwil) dan memberitahukan kalau ia serius dengan memberikan kado cincin.',
