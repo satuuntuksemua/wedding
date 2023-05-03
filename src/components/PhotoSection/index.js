@@ -4,9 +4,9 @@ import 'react-image-gallery/styles/css/image-gallery.css';
 import { photos } from './photo-data';
 
 function PhotoSection() {
-  /*const renderYoutubeVideo = () => {
+  const renderYoutubeVideo = () => {
     return (
-      <iframe
+      /*<iframe
         title="Pre-Wedding Wiwil & Wiwil"
         width="100%"
         height="360px"
@@ -14,9 +14,9 @@ function PhotoSection() {
         frameBorder="0"
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
         allowFullScreen
-      ></iframe>
+      ></iframe>*/
     );
-  };*/
+  };
 
   return (
     <div id="fh5co-testimonial" className="fh5co-section-gray">
