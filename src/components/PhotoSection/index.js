@@ -34,7 +34,7 @@ function PhotoSection() {
             </div>
           </div>
           <div className="rowtapijadikomentardulu">
-            <div className="col-md-10 col-md-offset-1">{renderYoutubeVideo()}</div>
+            <div className="col-md-10 col-md-offset-1tapijadikomentardulu">{renderYoutubeVideo()}</div>
           </div>
           <div className="row">
             <div className="col-md-10 col-md-offset-1">
