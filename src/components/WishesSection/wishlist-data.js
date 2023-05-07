@@ -1,15 +1,15 @@
-import Nita from '@assets/images/w-nita.jpeg';
+import Nita from '@assets/images/w-nita.jpg';
 import Zakiy from '@assets/images/w-zakiy.jpg';
-import Moletta from '@assets/images/w-moletta.jpeg';
+import Moletta from '@assets/images/w-moletta.jpg';
 import hapsari from '@assets/images/w-hapsari.jpg';
 import dianara from '@assets/images/w-dianara.jpg';
 import rahma from '@assets/images/w-rahma.jpg';
 import vela from '@assets/images/w-vela.jpg';
 import iqmala from '@assets/images/w-iqmala.jpg';
 import man from './assets/user.png';
-import ihsan from './assets/w-ihsan.jpeg';
+import ihsan from './assets/w-ihsan.jpg';
 import fajar from './assets/w-fajar.jpg';
-import risa from './assets/w-risa.jpeg';
+import risa from './assets/w-risa.jpg';
 import puspita from './assets/w-puspita.jpg';
 import kamal from './assets/w-kamal.jpg';
 import ghea from './assets/w-ghea.jpg';
@@ -47,7 +47,7 @@ export const wishlist = [
   },
   {
     name: 'Ena',
-    infoName: 'Sahabat Kecil',
+    infoName: 'Sahabat Kecil Wiwil',
     description: `"Happy Wedding untuk Wiwil dan Mas Latif❤
     Semoga menjadi keluarga yang Sakinah Mawardah wa Rahmah Amin.
     Selamat menempuh hidup yang baru kalian berdua.
