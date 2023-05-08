@@ -61,14 +61,8 @@ export const wishlist = [
   {
     name: 'Neni Nurhayati',
     infoName: 'Sahabat SMP Wiwil',
-    description: `"Happy Wedding untuk Wiwil dan Mas Latif ❤
-    Semoga menjadi keluarga yang Sakinah Mawardah wa Rahmah Amin.
-    Selamat menempuh hidup yang baru kalian berdua.
-    Setelah ini akan ada babak baru untuk kehidupan kalian 
-    Setelah ini akan ada hal yang kalian belum temukan sebelumnya 
-    Setelah ini hal yang kalian impikan akan terwujud 
-    Terus menjadi pasangan yang dapat menginspirasi semua orang Wiwil dan Mas Latif dan tetaplah menjadi pribadi yang rendah hati❤ 
-    Dari aku Neni Sahabatmu 🤎"`,
+    description: `"Selamat Berbahagiaaa Wiwil dan Mas Latif ❤️❤️❤️ 
+    Semoga samawaaa yaaa, cepet dpt momongan, jd keluarga kecil yang bahagia 😘😘😘 luvluvvv"`,
     image: Moletta,
   },
   {
