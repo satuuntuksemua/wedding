@@ -40,22 +40,22 @@ export const wishlist = [
   {
     name: 'Yolanda Agustina',
     infoName: 'Sahabat Kecil Wiwil',
-    description: `"Hey Wisel!  Finally ..... Happy Wedding!  Hopefully become a family that Sakinah Mawaddah Warohmah until HIS heaven later! 
+    description: `Hey Wisel!  Finally ..... Happy Wedding!  Hopefully become a family that Sakinah Mawaddah Warohmah until HIS heaven later! 
     Become a blessed family and always be happy!  May your dreams always be achieved!  Always complement and support each other! 
-    I will wait for 3 children yea! Hihi 😅😅😘"`,
+    I will wait for 3 children yea! Hihi 😅😅😘`,
     image: Zakiy,
   },
   {
     name: 'Ena',
     infoName: 'Sahabat Kecil',
-    description: `"Happy Wedding untuk Wisel dan A Latif ❤
+    description: `Happy Wedding untuk Wisel dan A Latif ❤
     Semoga menjadi keluarga yang Sakinah Mawardah wa Rahmah Amin.
     Selamat menempuh hidup yang baru kalian berdua.
     Setelah ini akan ada babak baru untuk kehidupan kalian 
     Setelah ini akan ada hal yang kalian belum temukan sebelumnya 
     Setelah ini hal yang kalian impikan akan terwujud 
     Terus menjadi pasangan yang dapat menginspirasi semua orang Wisel dan A Latif dan tetaplah menjadi pribadi yang rendah hati❤ 
-    Dari aku Enaa sahabat sejak kecilmu 🤎"`,
+    Dari aku Enaa sahabat sejak kecilmu 🤎`,
     image: risa,
   },
   {
