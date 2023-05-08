@@ -1,5 +1,5 @@
-import Nita from '@assets/images/w-nita.jpg';
-import Zakiy from '@assets/images/w-zakiy.jpg';
+import Nita from '@assets/images/w-nita.jpeg';
+import Zakiy from '@assets/images/w-zakiy.jpeg';
 import Moletta from '@assets/images/w-moletta.jpg';
 import hapsari from '@assets/images/w-hapsari.jpg';
 import dianara from '@assets/images/w-dianara.jpg';
@@ -7,9 +7,9 @@ import rahma from '@assets/images/w-rahma.jpg';
 import vela from '@assets/images/w-vela.jpg';
 import iqmala from '@assets/images/w-iqmala.jpg';
 import man from './assets/user.png';
-import ihsan from './assets/w-ihsan.jpg';
+import ihsan from './assets/w-ihsan.jpeg';
 import fajar from './assets/w-fajar.jpg';
-import risa from './assets/w-risa.jpg';
+import risa from './assets/w-risa.jpeg';
 import puspita from './assets/w-puspita.jpg';
 import kamal from './assets/w-kamal.jpg';
 import ghea from './assets/w-ghea.jpg';
@@ -26,29 +26,36 @@ import jenny from './assets/w-jenny.jpg';
 
 export const wishlist = [
   {
-    name: 'Nita Syarifah',
-    infoName: 'Sahabat SMP Dinda',
-    description: `selamat menempuh hidup baru dinda dan mas indra semoga menjadi pasangan teman hidup selamanya sesurga, enjoy your little family always be happy my sweet couple!🥰🤗 amin`,
+    name: 'Maya SN',
+    infoName: 'Sahabat Kecil Wiwil',
+    description: `selamat menempuh hidup baru wisel dan a latif semoga menjadi pasangan teman hidup selamanya sesurga, enjoy your little family always be happy my sweet couple!🥰🤗 amin`,
     image: Nita,
   },
   {
-    name: 'Ihsan Satriawan',
-    infoName: 'Rekan Kerja Indra, Tokopedia',
-    description: `Selamat menggenapkan separuh Agama ya Indra dan Dinda. Semoga melalui pernikahan ini, kalian bisa saling menguatkan dalam mengarungi kehidupan ini baik dalam kondisi senang ataupun susah. Serta semakin dekat dan konsisten dalam menjalankan perintah Agama.`,
+    name: 'Astri S',
+    infoName: 'Sahabat Kecil Wiwil',
+    description: `Selamat menggenapkan separuh Agama ya wisel dan latif. Semoga melalui pernikahan ini, kalian bisa saling menguatkan dalam mengarungi kehidupan ini baik dalam kondisi senang ataupun susah. Serta semakin dekat dan konsisten dalam menjalankan perintah Agama.`,
     image: ihsan,
   },
   {
-    name: 'Zakiy Anwar Fahri',
-    infoName: 'Sahabat Dinda & Indra',
-    description: `Hai Indra & Dinda, sebelum nya aku ucapin selamat akhirnya mencapai pernikahan. Semoga pernikahannya lancar dan menjadi keluarga sakinah mawahdah warahmah. Sebagai sahabat mu sejak awal kuliah kita berjuang bersama dan akhirnya sampai titik ini aku seneng banget kamu bisa menggapai cita-cita mu pelan-pelan, setelah ini kamu akan memulai perjalan dengan seorang yang akan lebih setia dari Sahabat yaitu Istri (Dinda), tetep sabar dan setia ya Ndra. Nahh, untuk Dinda bantu sahabat ku semakin baik ya hehe. :D`,
+    name: 'Yolanda Agustina',
+    infoName: 'Sahabat Kecil Wiwil',
+    description: `"Hey Wisel!  Finally ..... Happy Wedding!  Hopefully become a family that Sakinah Mawaddah Warohmah until HIS heaven later! 
+    Become a blessed family and always be happy!  May your dreams always be achieved!  Always complement and support each other! 
+    I will wait for 3 children yea! Hihi 😅😅😘"`,
     image: Zakiy,
   },
   {
-    name: 'Risalatul Muawanah',
-    infoName: 'Sahabat SMP Dinda',
-    description: `"Hey Din!  Finally ..... Happy Wedding!  Hopefully become a family that Sakinah Mawaddah Warohmah until HIS heaven later! 
-    Become a blessed family and always be happy!  May your dreams always be achieved!  Always complement and support each other! 
-    I will wait for 5 children yea! Hihi 😅😅😘"`,
+    name: 'Ena',
+    infoName: 'Sahabat Kecil Wiwil',
+    description: `"Happy Wedding untuk Wisel dan A Latif ❤
+    Semoga menjadi keluarga yang Sakinah Mawardah wa Rahmah Amin.
+    Selamat menempuh hidup yang baru kalian berdua.
+    Setelah ini akan ada babak baru untuk kehidupan kalian 
+    Setelah ini akan ada hal yang kalian belum temukan sebelumnya 
+    Setelah ini hal yang kalian impikan akan terwujud 
+    Terus menjadi pasangan yang dapat menginspirasi semua orang Wisel dan A Latif dan tetaplah menjadi pribadi yang rendah hati❤ 
+    Dari aku Enaa sahabat sejak kecilmu 🤎"`,
     image: risa,
   },
   {
