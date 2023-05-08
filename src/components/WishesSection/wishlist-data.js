@@ -26,9 +26,9 @@ import jenny from './assets/w-jenny.jpg';
 
 export const wishlist = [
   {
-    name: 'Nita Syarifah',
-    infoName: 'Sahabat SMP Wiwil',
-    description: `selamat menempuh hidup baru Wiwil dan mas Latifsemoga menjadi pasangan teman hidup selamanya sesurga, enjoy your little family always be happy my sweet couple!🥰🤗 amin`,
+    name: 'Maya SN',
+    infoName: 'Sahabat Kecil Wiwil',
+    description: `selamat menempuh hidup baru Wisel dan a Latif semoga menjadi pasangan teman hidup selamanya sesurga, enjoy your little family always be happy my sweet couple!🥰🤗 amin`,
     image: Nita,
   },
   {
