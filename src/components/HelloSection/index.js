@@ -7,7 +7,7 @@ import Groom from '@assets/images/p-Latif-1.jpg';
 import { styWrapper } from './styles';
 
 function HelloSection({ isInvitation }) {
-  const finalSubtitle = isInvitation ? '09 Juli 2023, Mahoni Leisure, Sukabumi' : 'Sabtu, 09 Juli 2023';
+  const finalSubtitle = isInvitation ? '09 Juli 2023, Mahoni Leisure, Sukabumi' : 'Minggu, 09 Juli 2023';
 
   return (
     <Fragment>

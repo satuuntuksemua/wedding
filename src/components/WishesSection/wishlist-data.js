@@ -47,7 +47,7 @@ export const wishlist = [
   },
   {
     name: 'Ena',
-    infoName: 'Sahabat Kecil',
+    infoName: 'Sahabat Kecil Wiwil',
     description: `Happy Wedding untuk Wisel dan A Latif ❤
     Semoga menjadi keluarga yang Sakinah Mawardah wa Rahmah Amin.
     Selamat menempuh hidup yang baru kalian berdua.
@@ -59,16 +59,16 @@ export const wishlist = [
     image: risa,
   },
   {
-    name: 'Moleta Tiara Mahayanti',
-    infoName: 'Sahabat SMP Dinda',
-    description: `"Happy Wedding untuk Dinda dan Mas Indra ❤
+    name: 'Neni Nurhayati',
+    infoName: 'Sahabat SMP Wiwil',
+    description: `"Happy Wedding untuk Wiwil dan Mas Latif ❤
     Semoga menjadi keluarga yang Sakinah Mawardah wa Rahmah Amin.
     Selamat menempuh hidup yang baru kalian berdua.
     Setelah ini akan ada babak baru untuk kehidupan kalian 
     Setelah ini akan ada hal yang kalian belum temukan sebelumnya 
     Setelah ini hal yang kalian impikan akan terwujud 
-    Terus menjadi pasangan yang dapat menginspirasi semua orang Dinda dan Mas indra dan tetaplah menjadi pribadi yang rendah hati❤ 
-    Dari aku Moleta Sahabatmu 🤎"`,
+    Terus menjadi pasangan yang dapat menginspirasi semua orang Wiwil dan Mas Latif dan tetaplah menjadi pribadi yang rendah hati❤ 
+    Dari aku Neni Sahabatmu 🤎"`,
     image: Moletta,
   },
   {
