@@ -38,7 +38,7 @@ export const wishlist = [
     image: ihsan,
   },
   {
-    name: 'Yolanda Agustina',
+    name: 'Yolanda Agustina R',
     infoName: 'Sahabat Kecil Wiwil',
     description: `Hey Wisel!  Finally ..... Happy Wedding!  Hopefully become a family that Sakinah Mawaddah Warohmah until HIS heaven later! 
     Become a blessed family and always be happy!  May your dreams always be achieved!  Always complement and support each other! 
