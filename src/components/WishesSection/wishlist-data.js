@@ -1,4 +1,4 @@
-import Nita from '@assets/images/w-nita.jpeg';
+import Nita from '@assets/images/w-nita.jpg';
 import Zakiy from '@assets/images/w-zakiy.jpg';
 import Moletta from '@assets/images/w-moletta.jpeg';
 import hapsari from '@assets/images/w-hapsari.jpg';
