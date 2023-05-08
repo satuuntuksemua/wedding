@@ -7,9 +7,9 @@ import rahma from '@assets/images/w-rahma.jpg';
 import vela from '@assets/images/w-vela.jpg';
 import iqmala from '@assets/images/w-iqmala.jpg';
 import man from './assets/user.png';
-import ihsan from './assets/w-ihsan.jpeg';
+import ihsan from '@assets/images/w-ihsan.jpeg';
 import fajar from './assets/w-fajar.jpg';
-import risa from './assets/w-risa.jpeg';
+import risa from '@assets/images/w-risa.jpeg';
 import puspita from './assets/w-puspita.jpg';
 import kamal from './assets/w-kamal.jpg';
 import ghea from './assets/w-ghea.jpg';
@@ -28,34 +28,34 @@ export const wishlist = [
   {
     name: 'Maya SN',
     infoName: 'Sahabat Kecil Wiwil',
-    description: `selamat menempuh hidup baru wisel dan a latif semoga menjadi pasangan teman hidup selamanya sesurga, enjoy your little family always be happy my sweet couple!🥰🤗 amin`,
+    description: `selamat menempuh hidup baru Wisel dan A Latif semoga menjadi pasangan teman hidup selamanya sesurga, enjoy your little family always be happy my sweet couple!🥰🤗 amin`,
     image: Nita,
   },
   {
     name: 'Astri S',
     infoName: 'Sahabat Kecil Wiwil',
-    description: `Selamat menggenapkan separuh Agama ya wisel dan latif. Semoga melalui pernikahan ini, kalian bisa saling menguatkan dalam mengarungi kehidupan ini baik dalam kondisi senang ataupun susah. Serta semakin dekat dan konsisten dalam menjalankan perintah Agama.`,
+    description: `Selamat menggenapkan separuh Agama ya Wisel dan A Latif. Semoga melalui pernikahan ini, kalian bisa saling menguatkan dalam mengarungi kehidupan ini baik dalam kondisi senang ataupun susah. Serta semakin dekat dan konsisten dalam menjalankan perintah Agama.`,
     image: ihsan,
   },
   {
     name: 'Yolanda Agustina',
     infoName: 'Sahabat Kecil Wiwil',
-    description: `"Hey Wisel!  Finally ..... Happy Wedding!  Hopefully become a family that Sakinah Mawaddah Warohmah until HIS heaven later! 
+    description: `Hey Wisel!  Finally ..... Happy Wedding!  Hopefully become a family that Sakinah Mawaddah Warohmah until HIS heaven later! 
     Become a blessed family and always be happy!  May your dreams always be achieved!  Always complement and support each other! 
-    I will wait for 3 children yea! Hihi 😅😅😘"`,
+    I will wait for 3 children yea! Hihi 😅😅😘`,
     image: Zakiy,
   },
   {
     name: 'Ena',
-    infoName: 'Sahabat Kecil Wiwil',
-    description: `"Happy Wedding untuk Wisel dan A Latif ❤
+    infoName: 'Sahabat Kecil',
+    description: `Happy Wedding untuk Wisel dan A Latif ❤
     Semoga menjadi keluarga yang Sakinah Mawardah wa Rahmah Amin.
     Selamat menempuh hidup yang baru kalian berdua.
     Setelah ini akan ada babak baru untuk kehidupan kalian 
     Setelah ini akan ada hal yang kalian belum temukan sebelumnya 
     Setelah ini hal yang kalian impikan akan terwujud 
     Terus menjadi pasangan yang dapat menginspirasi semua orang Wisel dan A Latif dan tetaplah menjadi pribadi yang rendah hati❤ 
-    Dari aku Enaa sahabat sejak kecilmu 🤎"`,
+    Dari aku Enaa sahabat sejak kecilmu 🤎`,
     image: risa,
   },
   {
