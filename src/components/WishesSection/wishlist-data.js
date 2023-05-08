@@ -1,4 +1,4 @@
-import Nita from '@assets/images/w-nita.jpg';
+import Nita from '@assets/images/w-nita.jpeg';
 import Zakiy from '@assets/images/w-zakiy.jpg';
 import Moletta from '@assets/images/w-moletta.jpg';
 import hapsari from '@assets/images/w-hapsari.jpg';
@@ -26,9 +26,9 @@ import jenny from './assets/w-jenny.jpg';
 
 export const wishlist = [
   {
-    name: 'Nita Syarifah',
-    infoName: 'Sahabat SMP Dinda',
-    description: `selamat menempuh hidup baru dinda dan mas indra semoga menjadi pasangan teman hidup selamanya sesurga, enjoy your little family always be happy my sweet couple!🥰🤗 amin`,
+    name: 'Maya SN',
+    infoName: 'Sahabat Kecil Wiwil',
+    description: `selamat menempuh hidup baru Wisel dan A Latif semoga menjadi pasangan teman hidup selamanya sesurga, enjoy your little family always be happy my sweet couple!🥰🤗 amin`,
     image: Nita,
   },
   {
