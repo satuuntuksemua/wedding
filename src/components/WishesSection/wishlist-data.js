@@ -1,6 +1,6 @@
 import Nita from '@assets/images/w-nita.jpeg';
 import Zakiy from '@assets/images/w-zakiy.jpeg';
-import Moletta from '@assets/images/w-moletta.jpg';
+import Moletta from '@assets/images/neni.jpg';
 import hapsari from '@assets/images/w-hapsari.jpg';
 import dianara from '@assets/images/w-dianara.jpg';
 import rahma from '@assets/images/w-rahma.jpg';
