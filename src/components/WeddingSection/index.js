@@ -10,7 +10,7 @@ function WeddingSection({ isInvitation }) {
     return (
       <Fragment>
         <div className="col-md-8 col-md-offset-4">
-          <WeddingInfoBox title="Akad Nikah" time="09.00 WIB (Live di Instagram)" date="Sabtu, 09 Juli 2023" />
+          <WeddingInfoBox title="Akad Nikah" time="09.00 WIB (Live di Instagram)" date=", 09 Juli 2023" />
         </div>
         <ButtonLive />
       </Fragment>
@@ -36,13 +36,13 @@ function WeddingSection({ isInvitation }) {
                 <WeddingInfoBox
                   title="Akad Nikah"
                   time="Akan dilaksanakan pagi hari "
-                  date="Sabtu, 09 Juli 2023"
+                  date="Minggu, 09 Juli 2023"
                   description="Mahoni Leisure Sukabumi <br/>Jl Gandasoli - Cireunghas, Selawangi, Kec. Sukaraja, Kabupaten Sukabumi, Provinsi Jawa Barat, Kode Pos 43194"
                 />
                 <WeddingInfoBox
                   title="Syukuran Pernikahan"
                   time="Sesuai jadwal undangan di e-ticket "
-                  date="Sabtu, 09 Juli 2023"
+                  date="Minggu, 09 Juli 2023"
                   description="Mahoni Leisure Sukabumi <br/>Jl Gandasoli - Cireunghas, Selawangi, Kec. Sukaraja, Kabupaten Sukabumi, Provinsi Jawa Barat, Kode Pos 43194"
                 />
               </div>
