@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react';
-import Comments from '../components/Comments';
+import Comments from '@components/Comments';
 import { bool } from 'prop-types';
 import { styWrapper } from '../HelloSection/styles';
 
