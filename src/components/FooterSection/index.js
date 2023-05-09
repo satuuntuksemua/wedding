@@ -22,11 +22,9 @@ function FooterSection({ isInvitation }) {
                   <br /> kami ucapkan terima kasih. <br />
                   Wassalamualaikum warahmatullahi wabarakatuh.
                 </p>
+                <Comments />
               </div>
             </div>
-          </div>
-          <div>
-          <Comments />
           </div>
         </div>
       )}
