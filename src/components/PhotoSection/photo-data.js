@@ -28,6 +28,8 @@ import Gallery14 from '@assets/images/gallery-14.jpg';
 import GalleryT14 from '@assets/images/gallery-t-14.jpg';
 import Gallery15 from '@assets/images/gallery-15.jpg';
 import GalleryT15 from '@assets/images/gallery-t-15.jpg';
+import Gallery16 from '@assets/images/gallery-16.jpg';
+import GalleryT16 from '@assets/images/gallery-t-16.jpg';
 
 export const photos = [
   {
@@ -89,5 +91,9 @@ export const photos = [
   {
     original: Gallery15,
     thumbnail: GalleryT15,
+  },
+  {
+    original: Gallery16,
+    thumbnail: GalleryT16,
   },
 ];

@@ -2,7 +2,7 @@ import img1 from '@assets/images/p1.jpeg';
 import img2 from '@assets/images/p2.jpeg';
 import img3 from '@assets/images/p3.jpg';
 import img4 from '@assets/images/p4.jpg';
-import img5 from '@assets/images/p4.jpg';
+import img5 from '@assets/images/p5.jpg';
 import img6 from '@assets/images/p6.jpeg';
 
 export const stories = [
