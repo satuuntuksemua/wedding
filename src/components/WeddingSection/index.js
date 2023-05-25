@@ -36,14 +36,14 @@ function WeddingSection({ isInvitation }) {
                 <WeddingInfoBox
                   title="Akad Nikah dan Syukuran"
                   date="Minggu, 09 Juli 2023"
-                  time="Akad     : 09.00 WIB <br>Syukuran : Sesuai jadwal undangan di e-ticket "
+                  time="Akad pada pukul 09.00 WIB dan Syukuran Sesuai jadwal undangan di e-ticket "
                   description="Mahoni Leisure Sukabumi <br/>Jl Gandasoli - Cireunghas, Selawangi, Kec. Sukaraja, Kabupaten Sukabumi, Provinsi Jawa Barat, Kode Pos 43194"
                 />
                 <WeddingInfoBox
                   title="Ngunduh Mantu"
                   time="09.00 WIB"
                   date="Minggu, 16 Juli 2023"
-                  description="Kediaman Mempelai Priaimage.pngKp. Bugelan RT. 003/ RW 006, Kelurahan Gunung Tandala, Kecamatan Kawalu, Kota Tasikmalaya, Provinsi Jawa Barat, Kode Pos 46182"
+                  description="Kediaman Mempelai Pria<br/>Kp. Bugelan RT. 003/ RW 006, Kelurahan Gunung Tandala, Kecamatan Kawalu, Kota Tasikmalaya, Provinsi Jawa Barat, Kode Pos 46182"
                 />
               </div>
             )}
