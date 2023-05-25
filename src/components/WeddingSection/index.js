@@ -25,7 +25,7 @@ function WeddingSection({ isInvitation }) {
           <div className="row">
             <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">
               <span className="bismillah">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</span>
-              <h2 className="main-font main-font__wedding">Akad Nikah dan Syukuran Pernikahan</h2>
+              <h2 className="main-font main-font__wedding">Akad Nikah, Syukuran Pernikahan dan Ngunduh Mantu</h2>
               <span className="sub-title sub-title__wedding">Insha Allah akan diselenggarakan pada:</span>
             </div>
           </div>
@@ -34,16 +34,17 @@ function WeddingSection({ isInvitation }) {
             {isInvitation && (
               <div className="col-md-10 col-md-offset-1">
                 <WeddingInfoBox
-                  title="Akad Nikah"
-                  time="Akan dilaksanakan pagi hari "
+                  title="Akad Nikah dan Syukuran Pernikahan"
                   date="Minggu, 09 Juli 2023"
+                  time="- Akad     : 09.00 WIB <br/>
+                        - Syukuran : Sesuai jadwal undangan di e-ticket "
                   description="Mahoni Leisure Sukabumi <br/>Jl Gandasoli - Cireunghas, Selawangi, Kec. Sukaraja, Kabupaten Sukabumi, Provinsi Jawa Barat, Kode Pos 43194"
                 />
                 <WeddingInfoBox
-                  title="Syukuran Pernikahan"
-                  time="Sesuai jadwal undangan di e-ticket "
-                  date="Minggu, 09 Juli 2023"
-                  description="Mahoni Leisure Sukabumi <br/>Jl Gandasoli - Cireunghas, Selawangi, Kec. Sukaraja, Kabupaten Sukabumi, Provinsi Jawa Barat, Kode Pos 43194"
+                  title="Ngunduh Mantu"
+                  time="09.00 WIB"
+                  date="Minggu, 16 Juli 2023"
+                  description="Kediaman Mempelai Pria<br/>Kp. Bugelan RT. 003/ RW 006, Kelurahan Gunung Tandala, Kecamatan Kawalu, Kota Tasikmalaya, Provinsi Jawa Barat, Kode Pos 46182"
                 />
               </div>
             )}

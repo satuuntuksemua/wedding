@@ -38,14 +38,14 @@ export const stories = [
     title: 'Tanda Serius',
     date: '17 September 2022',
     description:
-      'Seiring berjalannya waktu keduanya menjadi semakin akrab dan di awal April ketika ramadhan, tepatnya di tanggal 10 April 2022 Latif mendeklarasikan dan menegaskan mengenai hubungan keduanya. Hubungan keduanya semakin serius, dan Wiwil pun makin akrab dengan keluarga Latif, ia akrab dengan ayahnya latif dan juga bibi²nya hal tersebut sangat menyenangkan untuk Wiwil. Terlebih ia seperti mendapatkan kembali sosok ayah. Hubungan keduanya tentunya tidak selalu berjalan mulus namun karena itulah mereka bisa saling menguatkan. Terkadang mereka butuh penasehat juga seperti Ary dan Rangga (Teman Keduanya). Singkat cerita di bulan September yaitu kelahiran Wiwil, Latif datang ke Sukabumi ingin berjumpa dan mengobrol dengan keluarga (Kaka Wiwil) dan memberitahukan kalau ia serius dengan memberikan kado cincin. ',
+      'Seiring berjalannya waktu keduanya menjadi semakin akrab dan di awal April ketika ramadhan, tepatnya di tanggal 10 April 2022 Latif mendeklarasikan dan menegaskan mengenai hubungan keduanya. Hubungan keduanya semakin serius, dan Wiwil pun makin akrab dengan keluarga Latif, ia akrab dengan ayahnya latif dan juga bibi²nya hal tersebut sangat menyenangkan untuk Wiwil. Terlebih ia seperti mendapatkan kembali sosok ayah. Hubungan keduanya tentunya tidak selalu berjalan mulus namun karena itulah mereka bisa saling menguatkan. Terkadang mereka butuh penasehat juga seperti Ary dan Rangga (Teman Keduanya). Singkat cerita di bulan September yaitu kelahiran Wiwil, Latif datang ke Sukabumi ingin berjumpa dan mengobrol dengan keluarga (Kaka Wiwil) dan memberitahukan kalau ia serius dengan memberikan kado cincin . ',
     image: img4,
   },
   {
     title: 'Lamaran',
     date: '13 Mei 2023',
     description:
-      'Akhirnya tiba di masa Latif dan keluarga hadir ke rumah Wiwil untuk menyampaikan niat baik. Mulai dari acara lamaran ini, dilanjutkan dengan persiapan pernikahan yang insha Allah akan diselenggarakan pada tanggal 9 Juli 2023.',
+      'Akhirnya tiba di masa Latif dan keluarga hadir ke rumah Wiwil untuk menyampaikan niat baik. Mulai dari acara lamaran ini, dilanjutkan dengan persiapan Pernikahan yang In Sya Allah akan diselenggarakan pada tanggal 9 Juli 2023 dan acara Ngunduh Mantu pada tanggal 16 Juli 2023.',
     image: img5,
   },
 ];
