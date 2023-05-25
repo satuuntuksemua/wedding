@@ -34,7 +34,7 @@ function WeddingSection({ isInvitation }) {
             {isInvitation && (
               <div className="col-md-10 col-md-offset-1">
                 <WeddingInfoBox
-                  title="Akad Nikah dan Syukuran Pernikahan"
+                  title="Akad Nikah dan Syukuran"
                   date="Minggu, 09 Juli 2023"
                   time="- Akad     : 09.00 WIB <br/>- Syukuran : Sesuai jadwal undangan di e-ticket "
                   description="Mahoni Leisure Sukabumi <br/>Jl Gandasoli - Cireunghas, Selawangi, Kec. Sukaraja, Kabupaten Sukabumi, Provinsi Jawa Barat, Kode Pos 43194"
