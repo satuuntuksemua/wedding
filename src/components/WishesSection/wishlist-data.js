@@ -27,13 +27,13 @@ import jenny from './assets/w-jenny.jpg';
 export const wishlist = [
   {
     name: 'Maya SN',
-    infoName: 'Sahabat Kecil Wiwil',
+    infoName: 'Sahabat Kecil',
     description: `selamat menempuh hidup baru Wisel dan A Latif semoga menjadi pasangan teman hidup selamanya sesurga, enjoy your little family always be happy my sweet couple!🥰🤗 amin`,
     image: Nita,
   },
   {
     name: 'Astri S',
-    infoName: 'Sahabat Kecil Wiwil',
+    infoName: 'Sahabat Kecil',
     description: `Selamat menggenapkan separuh Agama ya Wisel dan A Latif. Semoga melalui pernikahan ini, kalian bisa saling menguatkan dalam mengarungi kehidupan ini baik dalam kondisi senang ataupun susah. Serta semakin dekat dan konsisten dalam menjalankan perintah Agama.`,
     image: ihsan,
   },
@@ -47,7 +47,7 @@ export const wishlist = [
   },
   {
     name: 'Ena',
-    infoName: 'Sahabat Kecil Wiwil',
+    infoName: 'Sahabat Kecil',
     description: `Happy Wedding untuk Wisel dan A Latif ❤
     Semoga menjadi keluarga yang Sakinah Mawardah wa Rahmah Amin.
     Selamat menempuh hidup yang baru kalian berdua.
@@ -60,7 +60,7 @@ export const wishlist = [
   },
   {
     name: 'Neni Nurhayati',
-    infoName: 'Sahabat SMP Wiwil',
+    infoName: 'Sahabat SMP',
     description: `"Selamat Berbahagiaaa Wiwil dan Mas Latif ❤️❤️❤️ 
     Semoga samawaaa yaaa, cepet dpt momongan, jd keluarga kecil yang bahagia 😘😘😘 luvluvvv"`,
     image: Moletta,
