@@ -22,7 +22,7 @@ import joshua from './assets/w-joshua.jpg';
 import sibra from './assets/w-sibra.jpg';
 import irfan from './assets/w-irfan-m.png';
 import reza from './assets/w-reza.jpg';
-import jenny from './assets/w-jenny.jpg';
+import Resti from './assets/w-resti.jpeg';
 
 export const wishlist = [
   {
@@ -60,10 +60,18 @@ export const wishlist = [
   },
   {
     name: 'Neni Nurhayati',
-    infoName: 'Sahabat SMP',
+    infoName: 'Sahabat Kecil',
     description: `"Selamat Berbahagiaaa Wiwil dan Mas Latif ❤️❤️❤️ 
     Semoga samawaaa yaaa, cepet dpt momongan, jd keluarga kecil yang bahagia 😘😘😘 luvluvvv"`,
     image: Moletta,
+  },
+  {
+    name:'Resti Amalia',
+    infoName : 'Sahabat Kecil',
+    description : `"Barakallahu lakuma wa baraka a'laikuma wa jama'a bainakuma fii khoiiir
+    Semoga lancar sampai hari H dan dijadikan keluarga yang sakinah mawadah warahmah aamiin
+    Masyallah cabat solehah yang satu ini sudah mau sold out aja, bahagia selalu yaw bestiku dari zama unyu2 🫶🏻🤍"`,
+    image: Resti,
   },
   
 ];
