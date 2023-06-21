@@ -548,5 +548,27 @@
     "isExchanged": "",
     "exchangedAt": "",
     "exchangedBy": ""
+  },
+   {
+    "code": "DXI-0051",
+    "name": "S2 Nusa Mandiri",
+    "desc": "Univ Nusa Mandiri",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
+  },
+   {
+    "code": "DXI-0052",
+    "name": "Fotokeun",
+    "desc": "Fotokeun",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
   }
 ]
