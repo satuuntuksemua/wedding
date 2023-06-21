@@ -515,5 +515,38 @@
     "isExchanged": "",
     "exchangedAt": "",
     "exchangedBy": ""
+  },
+   {
+    "code": "DXI-0048",
+    "name": "Nanik Wuryani, M.Kom",
+    "desc": "IP - Univ Nusa Mandiri",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
+  },
+   {
+    "code": "DXI-0049",
+    "name": "Ratna Sari",
+    "desc": "Sahabat",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
+  },
+   {
+    "code": "DXI-0050",
+    "name": "Handi Guna Prasetya",
+    "desc": "BSI Pemuda",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
   }
 ]
