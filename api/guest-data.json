@@ -570,5 +570,38 @@
     "isExchanged": "",
     "exchangedAt": "",
     "exchangedBy": ""
-  }
+  },
+   {
+    "code": "DXI-0053",
+    "name": "Alumni SMP Islam Cisumur",
+    "desc": "Angkatan 2012",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
+  },
+   {
+    "code": "DXI-0054",
+    "name": "Alumni SMK NU Tasikmalaya",
+    "desc": "Angkatan 2015",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
+  },
+   {
+    "code": "DXI-0055",
+    "name": "Alumni SDN Sukasari",
+    "desc": "Angkatan 2009",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
+  },
 ]
