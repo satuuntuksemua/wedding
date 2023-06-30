@@ -746,5 +746,16 @@
     "isExchanged": "",
     "exchangedAt": "",
     "exchangedBy": ""
+  },
+   {
+    "code": "DXI-0069",
+    "name": "Software Engineering",
+    "desc": "SMK Pasim Plus",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
   }
 ]
