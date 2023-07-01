@@ -31,14 +31,14 @@ export const stories = [
     title: 'Wisuda Bareng ',
     date: '20 November 2021 ',
     description:
-      'Lulus dan wisuda bareng di 2021, lulus setelah kuliah dijaman pandemi. Wiwil pernah bilang kalau ia merasa sedikit tersentuh dengan perlakuan latif kala itu di hari H wisuda. Wiwil yang kala itu di wisuda akan tetapi ia yang pada periode itu menjadi panitia wisuda tetap ingin membantu dahulu tim registrasi untuk check-in wisudawan, alhasil ia menjadi wisudawan yang hampir terakhir masuk ke aula prosesi dan kalian tahu, latif menunggu di pojok tempat registrasi sehingga saat itu kursi wisudawan kedua nya menjadi berdampingan. Oh ya dan mereka pun melakukan poto bersama (berdua) setelah selesai acara wisuda.',
+       'Lulus dan wisuda bareng di 2021, lulus setelah kuliah dijaman pandemi. Wiwil pernah bilang kalau ia merasa sedikit tersentuh dengan perlakuan latif kala itu di hari H wisuda sehingga menjadi duduk berdampingan didalam aula prosesi wisuda. Oh ya dan mereka pun melakukan poto bersama (berdua) setelah selesai acara wisuda.',
     image: img3,
   },
   {
     title: 'Tanda Serius',
     date: '17 September 2022',
     description:
-      'Seiring berjalannya waktu keduanya menjadi semakin akrab, hubungan keduanya serius, dan Wiwil pun akrab dengan keluarga Latif. Tentunya tidak selalu berjalan mulus namun karena itulah mereka bisa saling menguatkan. Terkadang mereka butuh penasehat juga seperti Ary dan Rangga (Teman Keduanya). Singkat cerita di bulan September yaitu kelahiran Wiwil, Latif datang ke Sukabumi ingin berjumpa dan mengobrol dengan keluarga (Kaka Wiwil) dan memberitahukan kalau ia serius.',
+      'Seiring berjalannya waktu keduanya menjadi semakin akrab, hubungan keduanya serius, dan Wiwil pun akrab dengan keluarga Latif. Tentunya hubungan keduanya tidak selalu berjalan mulus namun karena itulah mereka bisa saling menguatkan. Terkadang mereka butuh penasehat juga seperti Ary dan Rangga (Teman Keduanya). Singkat cerita di bulan September yaitu kelahiran Wiwil, Latif datang ke Sukabumi ingin berjumpa dan mengobrol dengan keluarga (Kaka Wiwil) dan memberitahukan kalau ia serius.',
     image: img4,
   },
   {
