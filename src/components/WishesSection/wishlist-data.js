@@ -20,7 +20,7 @@ import yunita from './assets/w-yunita.jpg';
 import fitria from './assets/w-fitria.jpg';
 import joshua from './assets/w-joshua.jpg';
 import sibra from './assets/w-sibra.jpg';
-import irfan from './assets/w-irfan-m.png';
+import irfan from './assets/w-boy.jpeg';
 import reza from './assets/w-reza.jpg';
 import Resti from './assets/w-resti.jpeg';
 
@@ -73,5 +73,11 @@ export const wishlist = [
     Masyallah cabat solehah yang satu ini sudah mau sold out aja, bahagia selalu yaw bestiku dari zama unyu2 🫶🏻🤍"`,
     image: Resti,
   },
-  
+  {
+    name:'Boy',
+    infoName : 'Sahabat Kecil',
+    description : `"Selamat berbahagia, semoga semakin berkah kehidupannya dan 
+    bisa saling melengkapi satu dengan yang lain. Semoga pernikahannya bisa dilanggengkan."`,
+    image: Boy,
+  },
 ];
