@@ -24,7 +24,7 @@ export const stories = [
     title: 'Mulai Dekat dan Jalan Pertama',
     date: '2 Oktober 2021',
     description:
-      'Awal mula keduanya akrab, saat itu wiwil dengan statusnya yang benar² sendiri begitu pun latif. Katanya wiwil sudah taubat dan tidak ingin menggantung perasaan laki-laki jika memang tidak pernah ada niat serius, perkataan rifqi cukup di dengarkan rupanya (rifqi teman sekelas juga). Wiwil mengeluh dan iri dengan kaum pria karena bisa pergi kemanapun tanpa khawatir, dan disana latif berinisiatif untuk menawarkan bagaimana kalau kita pergi ketempat yang belum pernah dituju wiwil sebelumnya. Wiwil mengiyakan dan keduanya pun pergi ke Hutan Mangroove Jakarta Utara. ',
+      'Awal mula keduanya akrab, saat itu wiwil dengan statusnya yang benar² sendiri begitu pun latif. Wiwil mengeluh dan iri dengan laki-laki karena bisa pergi kemanapun tanpa khawatir, dan disana latif berinisiatif untuk menawarkan bagaimana kalau pergi ketempat yang belum pernah dituju wiwil sebelumnya. Wiwil mengiyakan dan keduanya pun pergi ke Hutan Mangroove Jakarta Utara. ',
     image: img2,
   },
   {
