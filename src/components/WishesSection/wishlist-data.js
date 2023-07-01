@@ -79,5 +79,5 @@ export const wishlist = [
     description : `"Selamat berbahagia, semoga semakin berkah kehidupannya dan 
     bisa saling melengkapi satu dengan yang lain. Semoga pernikahannya bisa dilanggengkan."`,
     image: Boy,
-  },
+  }
 ];
