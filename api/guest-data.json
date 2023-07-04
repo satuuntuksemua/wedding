@@ -768,5 +768,27 @@
     "isExchanged": "",
     "exchangedAt": "",
     "exchangedBy": ""
+  },
+   {
+    "code": "DXI-0071",
+    "name": "Fidella Risyanli Latif, S.Kom",
+    "desc": "Kuliah",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
+   },
+   {
+    "code": "DXI-0072",
+    "name": "Yolanda Agustine Rusyanawati, A.Md",
+    "desc": "Kuliah",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
   }
 ]
