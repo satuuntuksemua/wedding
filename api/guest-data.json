@@ -867,5 +867,16 @@
     "isExchanged": "",
     "exchangedAt": "",
     "exchangedBy": ""
+  },
+   {
+    "code": "DXI-0080",
+    "name": "Kel.Wa Haji Ocik",
+    "desc": "Keluarga",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
   }
 ]
