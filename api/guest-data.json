@@ -790,5 +790,82 @@
     "isExchanged": "",
     "exchangedAt": "",
     "exchangedBy": ""
+  },
+   {
+    "code": "DXI-0073",
+    "name": "Kepala Sekolah SDN Tegal Panjang",
+    "desc": "SDN Tegal Panjang",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
+  },
+   {
+    "code": "DXI-0074",
+    "name": "Staff/ Guru SDN Tegal Panjang",
+    "desc": "SDN Tegal Panjang",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
+  },
+   {
+    "code": "DXI-0075",
+    "name": "Staff/ Guru SDN Tegal Panjang",
+    "desc": "SDN Tegal Panjang",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
+  },
+   {
+    "code": "DXI-0076",
+    "name": "Anggia Nurul Maharila",
+    "desc": "Sahabat Kecil",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
+  },
+   {
+    "code": "DXI-0077",
+    "name": "Rusda Wajhillah, M.Kom",
+    "desc": "UBSI Sukabumi",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
+  },
+   {
+    "code": "DXI-0078",
+    "name": "Astrid Noviriandini, M.Kom",
+    "desc": "Kemahasiswaan",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
+  },
+   {
+    "code": "DXI-0079",
+    "name": "Heru Purwanto, M.Kom",
+    "desc": "Kemahasiswaan",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
   }
 ]
