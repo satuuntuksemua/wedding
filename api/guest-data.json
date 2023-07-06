@@ -889,5 +889,16 @@
     "isExchanged": "",
     "exchangedAt": "",
     "exchangedBy": ""
+  },
+   {
+    "code": "DXI-0082",
+    "name": "Ria Indriani, S.Hum",
+    "desc": "Perpustakaan",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
   }
 ]
