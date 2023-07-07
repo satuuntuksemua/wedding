@@ -1043,6 +1043,39 @@
     "isExchanged": "",
     "exchangedAt": "",
     "exchangedBy": ""
+  },
+  {
+    "code": "DXI-0096",
+    "name": "Indra & Maulina",
+    "desc": "BSI Tasikmalaya",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
+  },
+  {
+    "code": "DXI-0097",
+    "name": "Irwan & Risma",
+    "desc": "BSI Tasikmalaya",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
+  },
+  {
+    "code": "DXI-0098",
+    "name": "Samsam Nursyamsi",
+    "desc": "BSI Tasikmalaya",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
   }
 
 ]
