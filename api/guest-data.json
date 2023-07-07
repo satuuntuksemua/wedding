@@ -900,5 +900,49 @@
     "isExchanged": "",
     "exchangedAt": "",
     "exchangedBy": ""
+  },
+  {
+    "code": "DXI-0083",
+    "name": "Siti Hajar",
+    "desc": "BSI Tasikmalaya",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
+  },
+  {
+    "code": "DXI-0084",
+    "name": "Ropi Nursyamsi",
+    "desc": "BSI Tasikmalaya",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
+  },
+  {
+    "code": "DXI-0085",
+    "name": "Dede Aji Septiandi",
+    "desc": "BSI Tasikmalaya",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
+  },
+  {
+    "code": "DXI-0086",
+    "name": "Keluarga Teh Neng",
+    "desc": "Keluarga",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
   }
 ]
