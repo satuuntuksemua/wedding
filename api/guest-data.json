@@ -944,5 +944,38 @@
     "isExchanged": "",
     "exchangedAt": "",
     "exchangedBy": ""
+  },
+  {
+    "code": "DXI-0087",
+    "name": "Rizki Hafiz Akbar & Ega Sukma Damayanti",
+    "desc": "BSI Tasikmalaya",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
+  },
+  {
+    "code": "DXI-0088",
+    "name": "Yeni Nuraini",
+    "desc": "BSI Tasikmalaya",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
+  },
+  {
+    "code": "DXI-0089",
+    "name": "Vika ",
+    "desc": "BSI Tasikmalaya",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
   }
 ]
