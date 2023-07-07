@@ -1087,6 +1087,28 @@
     "isExchanged": "",
     "exchangedAt": "",
     "exchangedBy": ""
+  },
+  {
+    "code": "DXI-0100",
+    "name": "Pipih & Suami",
+    "desc": "BSI Tasikmalaya",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
+  },
+  {
+    "code": "DXI-0101",
+    "name": "Febi & Suami",
+    "desc": "BSI Tasikmalaya",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
   }
 
 ]
