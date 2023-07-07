@@ -977,5 +977,50 @@
     "isExchanged": "",
     "exchangedAt": "",
     "exchangedBy": ""
+  },
+  {
+    "code": "DXI-0090",
+    "name": "Didit Adiguna",
+    "desc": "BSI Tasikmalaya",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
+  },
+  {
+    "code": "DXI-0091",
+    "name": "Husen & Shanaz",
+    "desc": "BSI Tasikmalaya",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
+  },
+  {
+    "code": "DXI-0093",
+    "name": "Rini Ariani",
+    "desc": "BSI Tasikmalaya",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
+  },
+  {
+    "code": "DXI-0093",
+    "name": "Husen & Shanaz",
+    "desc": "BSI Tasikmalaya",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
   }
+
 ]
