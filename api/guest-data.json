@@ -1109,6 +1109,17 @@
     "isExchanged": "",
     "exchangedAt": "",
     "exchangedBy": ""
+  },
+  {
+    "code": "DXI-0102",
+    "name": "Rizki Mandose",
+    "desc": "Sahabat",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
   }
 
 ]
