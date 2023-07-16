@@ -1142,6 +1142,17 @@
     "isExchanged": "",
     "exchangedAt": "",
     "exchangedBy": ""
+  },
+  {
+    "code": "DXI-0105",
+    "name": "Ikatan Pemuda Bugelan (IPB)",
+    "desc": "Ikatan Pemuda Bugelan",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
   }
 
 ]
